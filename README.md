@@ -3,7 +3,7 @@ Create a virtual environment
 python -m venv venv
 ```
 
-Activate the virtual environment
+Activate the virtual environment (Note your command may differ depending on your CLI or OS)
 ```
 venv/Scripts/activate
 ```
