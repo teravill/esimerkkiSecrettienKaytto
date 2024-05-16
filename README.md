@@ -3,7 +3,13 @@ Create a virtual environment
 python -m venv venv
 ```
 
-install the requirements
+Activate the virtual environment
+```
+venv/Scripts/activate
+```
+
+
+Install the requirements
 ```
 pip install -r requirements.txt
 ```
